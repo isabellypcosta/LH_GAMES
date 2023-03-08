@@ -3,5 +3,5 @@ Aplicação desenvolvida para o curso de "Programador em FrontEnd" do SENAI, ten
 aplicando:  
 
 - HTML e CSS3 para marcação e estilização;
--Media query e bootstrap para Implementação de responsividade;
--JQuery e JavaScript para implementação de funcionalidades, com um formulário funcional, com botões, carousel e entre outros.
+- Media query e bootstrap para Implementação de responsividade;
+- JQuery e JavaScript para implementação de funcionalidades, com um formulário funcional, com botões, carousel e entre outros.
